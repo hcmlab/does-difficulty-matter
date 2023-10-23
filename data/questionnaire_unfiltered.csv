@@ -1,0 +1,697 @@
+,Unnamed: 0,user_id,condition,age,gender,edu_lvl,edu_lvl_desc,field,field_desc,exp1,exp2,exp3,exp4,exp5,exp6,train_success,avg_train_diff,flow_score,ncs_score,mental_score,temporal_score,effort_score,difficulty_score,frustration_score,performance_score,flow1,flow2,flow3,flow4,flow5,flow6,flow7,flow8,flow9,flow10,ncs1,ncs2,ncs3,ncs4,ncs5,ncs6,comment,cfa_flow
+0,0,self-det:1,self-det,36,m,4,Master's Degree,ns3,Natural Sciences - Computer science,1,5,5,3,5,5,3,55.58445460929597,4.3,3.4,17,18,20,13,7,9,4,3,7,6,2,7,3,3,3,5,4,4,1,1,4,3,"training was fun, it helps to improve ability of solving puzzles, the lines and dots for over 7 selections confused my vision, i could hardly spot my choices were wrong (noticing 2 dots connected by a line), ",-0.8993589279820382
+1,1,self-det:2,self-det,25,f,4,Master's Degree,ns1,Natural Sciences - Biology,2,4,6,4,2,5,6,58.81313509752373,4.1,3.1,14,7,6,12,2,6,4,5,7,2,3,4,3,5,4,4,2,3,2,3,3,3,"the difficulty level was intermediate , somewhat rushed",-0.5123437700293976
+2,2,self-det:3,self-det,27,m,4,Master's Degree,na,Not applicable,1,6,6,6,1,3,7,50.30538017662167,4.8,3.1,13,7,11,11,3,9,5,5,7,2,5,6,5,5,5,3,3,3,3,2,4,4,", ",-0.04478904891860669
+3,3,self-det:4,self-det,23,f,2,High School,ns3,Natural Sciences - Computer science,5,7,7,7,7,7,4,50.63788138789588,4.9,3.2,11,13,10,13,2,8,5,5,7,3,5,6,4,6,6,2,4,5,2,2,4,5,"For me there were no enought time to make sure the answer was correct, and if I was wrong I couldn't fix it because of lacking time after I saw red flag. Easy puzzles didn't require that much time to finish, that's why  I got more correct answers in 5 dots compared to 7 or more., I haven't seen time passing. I feel satisfied because of the intelectual work I've done, no mater if the final answers were correct.",0.18800332963258226
+4,4,self-det:5,self-det,31,m,2,High School,na,Not applicable,1,5,5,7,1,7,10,48.95965166190666,5.4,2.9,12,8,7,10,0,6,7,6,6,5,5,6,5,5,5,4,2,2,4,3,2,3,", ",0.18056732609754578
+5,5,self-det:6,self-det,31,m,2,High School,na,Not applicable,1,1,4,3,2,6,5,54.939520802437954,4.8,3.4,17,5,14,12,13,16,7,5,7,6,5,6,4,3,4,1,3,4,1,1,4,4,"I think I couldn't solve any puzzles that had 7 points to pick out, so for me that was quite challenging. 6 dots to finds wasn't that difficult., I felt immersed and really tried to find the right points and did my best to find the correct solution. I felt .. pushed, in the sense of something that made me focus and think about what I was doing.",-0.26393481559574417
+6,6,self-det:7,self-det,35,f,3,Bachelor's Degree,h8,Humanities - Literature,5,5,7,7,3,7,3,54.75939367349458,6.5,3.2,1,4,5,9,0,12,6,7,7,7,7,7,7,6,7,4,4,4,2,2,4,5,"It was an interesting challenge and I enjoyed it. I am maybe a little slow for the timer, I definitely need to DO THE THING to learn from it before I can make the right decision., I felt fine. Challenged and interested. I was not frustrated, even when I was failing to find the solutions, because I know I would have gotten them if I had enough time.",0.9541445675801792
+7,7,self-det:8,self-det,43,f,4,Master's Degree,h4,Humanities - Linguistics and languages,4,3,5,4,3,6,2,47.522262990677696,5.0,3.2,15,12,16,11,4,19,5,5,4,6,6,6,4,6,6,2,3,4,2,2,4,4,"it was quite difficult and required concentration, I thought I would be lucky if I managed to solve one or two puzzles",0.31256863250741773
+8,8,self-det:9,self-det,34,f,7,Prefer not to answer,na,Not applicable,5,7,7,6,5,4,4,45.95973792686352,3.4,3.1,14,20,20,17,17,16,3,2,1,4,5,5,6,3,3,2,3,3,4,1,4,4,"Complex and little time allocated, Stressed because time went by fast. I would like to take another shot.",-0.8127800282269968
+9,9,self-det:10,self-det,23,f,3,Bachelor's Degree,p8,Professions - Journalism and media,1,3,7,7,1,4,9,44.24121335859643,4.6,3.3,17,0,14,15,12,17,5,5,7,2,3,5,4,6,5,4,3,2,1,2,5,3,"Personally, I prefer to do less difficult puzzles repeatedly while I learn before doing harder ones, It was a little confusing at the beggining but once I got the hang of it I was able to perform a little better",-0.14760744058701203
+10,10,self-det:11,self-det,38,f,3,Bachelor's Degree,p3,Professions - Business,2,5,5,2,2,2,6,65.53980812169152,3.9,3.2,11,13,13,10,15,14,4,3,4,3,2,4,4,5,5,5,4,4,2,2,4,3,", ",-0.4783267493201131
+11,11,self-det:12,self-det,25,f,3,Bachelor's Degree,p3,Professions - Business,6,7,4,6,4,2,3,66.06785326166,6.2,3.4,14,10,12,13,2,10,7,7,7,7,7,7,7,6,6,1,5,5,1,1,5,5,", ",0.8014289524021336
+12,12,self-det:13,self-det,40,f,4,Master's Degree,ss1,Social Sciences - Economics,5,6,6,6,3,3,6,43.98795313711201,4.9,3.4,9,9,16,13,14,18,5,4,5,5,4,6,6,4,5,5,2,4,1,1,4,1,"That was a little bit more difficult as I have thought, That was a good challenge",-0.1328224078318252
+13,13,self-det:14,self-det,20,m,1,Below High School,ns3,Natural Sciences - Computer science,4,5,7,5,5,7,4,84.05453640718254,3.8,2.8,16,8,7,13,18,15,7,1,7,2,3,5,4,4,1,4,5,4,3,5,5,3,"i just can't do this, i don't even know why. It was a little too hard for me, maybe it is becouse i was sleeping badly last night, I mean, i was tired. I don't know why but i was very tired, on other hand the puzzles were really great.",-1.3187734897197774
+14,14,self-det:15,self-det,38,f,3,Bachelor's Degree,ns3,Natural Sciences - Computer science,1,2,7,7,6,6,7,59.130150639942464,6.9,3.0,14,15,9,12,0,11,7,7,7,7,7,7,7,7,7,6,3,3,4,2,3,4,"It made me want to try harder if I dropped down a difficulty level. , I felt the more I played the puzzles the better I got at them.",1.0597699388100899
+15,15,self-det:16,self-det,22,f,3,Bachelor's Degree,na,Not applicable,5,6,7,6,3,5,0,94.67327188823644,5.2,2.8,20,14,20,20,20,20,3,2,4,7,7,7,7,7,4,4,5,3,3,5,4,3,"It was a very interesting task that needed a lot of thinking. It was difficult too, Anxious and Excited at the same time",-0.060625211215741714
+16,16,self-det:17,self-det,26,f,4,Master's Degree,ss9,Social Sciences - Psychology,1,6,7,5,1,6,8,56.70795906381761,5.7,3.0,13,5,13,10,12,9,7,6,7,7,6,7,6,4,4,3,3,2,3,3,3,3,"Some levels were very easy which gave me the security to choose a more difficult the next time. However, some of them were hard which made me feel slightly annoyed at times. In a general way, the balance regarding the difficulty was good., Even though some of the puzzles were difficult, the game was really engaging and gave the opportunity to be in a flow state for the time I was playing it. ",0.09639725265969012
+17,17,self-det:18,self-det,25,m,3,Bachelor's Degree,ns1,Natural Sciences - Biology,5,4,4,5,4,5,7,58.12740882069794,4.6,3.2,11,5,14,10,4,2,5,5,5,5,5,5,5,4,5,2,4,3,2,2,4,4,"IIt was a difficult but very interesting type of exercise, concentrated",-0.06865429415258761
+18,18,self-det:19,self-det,23,f,3,Bachelor's Degree,ns1,Natural Sciences - Biology,1,3,6,2,1,6,0,42.84206630496973,2.4,3.1,20,7,20,20,20,20,1,1,1,5,5,4,4,1,1,1,1,1,2,3,3,3,"There was no difference even though I always chose the less difficult., Did not enjoy it at all. I got the practice one right but somehow I failed all the puzzles to follow then I was in distress because I don't know how and what I'm doing.",-1.580945198715831
+19,19,self-det:20,self-det,22,m,2,High School,p3,Professions - Business,7,5,5,4,2,7,2,58.65334302180935,6.3,3.3,14,14,18,15,0,17,6,6,7,7,7,7,7,7,5,4,4,4,2,1,4,4,"I actually enjoyed them, I am not used to these types of games., I felt challenged; really enjoyed it, thanks!",0.5702473910892043
+20,20,self-det:21,self-det,22,m,2,High School,na,Not applicable,1,3,3,2,1,1,1,43.082900276270514,4.5,3.2,10,5,20,19,17,16,6,2,4,3,6,7,7,5,4,1,1,5,1,3,5,1,"tasks required a lot of sharpening of my senses, they were quite hard for me to do, Slightly stressed that I'll run out of time and won't be able to complete the task",-0.25957477774035675
+21,21,self-det:22,self-det,26,m,3,Bachelor's Degree,p1,Professions - Agriculture,5,4,6,6,2,5,7,65.24285578256153,5.2,3.2,13,6,8,11,5,5,6,6,3,3,5,5,6,7,7,4,4,4,2,2,5,4,"it was fine, and the option to change difficulty was great, it was an interesting experience",0.6419511715925625
+22,22,self-det:23,self-det,33,m,2,High School,p3,Professions - Business,1,6,6,5,2,7,7,73.49509586057361,6.3,3.2,12,4,13,8,2,14,6,6,7,7,7,7,4,7,6,6,4,3,2,2,3,4,"Whenever I failed a puzzle I was always surprised. I would have liked to see what I did wrong., Very concentrated on the task/puzzle.",0.60505212504559
+23,23,self-det:24,self-det,22,m,2,High School,ns3,Natural Sciences - Computer science,6,4,6,5,7,6,8,64.75538222103617,5.8,2.8,17,4,12,15,13,15,7,7,6,5,5,7,6,5,6,4,4,4,4,4,4,4,", ",0.5269414958002119
+24,24,self-det:25,self-det,37,m,3,Bachelor's Degree,p6,Professions - Engineering and technology,1,6,7,7,5,7,6,80.40905131174378,6.2,3.4,20,16,16,18,3,9,7,5,7,6,5,7,6,6,6,7,4,5,1,1,5,5,"It was very difficult; I had to fully concentrate., I felt happy since I like puzzles.",0.450278106405837
+25,25,self-det:26,self-det,30,f,3,Bachelor's Degree,ss10,Social Sciences - Sociology,2,3,6,7,1,7,5,72.50537083471528,4.1,3.4,18,7,11,7,6,15,5,3,7,3,4,7,5,3,3,1,3,4,1,1,5,4,"The puzzles weren't difficult, I just needed more time to think them through and complete them., I felt excited",-0.7384509547607145
+26,26,self-det:27,self-det,26,f,4,Master's Degree,p6,Professions - Engineering and technology,5,6,7,6,7,6,5,74.99469919492499,5.6,3.4,12,8,10,10,10,10,5,6,6,7,6,6,5,6,6,3,4,2,1,1,4,4,"The puzzles that were 'tight' (the vertices and edges were close to each other) were more difficult because it was harder to see which dots are connected, I felt motivated and concentrated",0.4744078471496378
+27,27,self-det:28,self-det,33,f,3,Bachelor's Degree,na,Not applicable,1,4,5,4,3,5,4,64.97556514938786,4.4,3.3,16,11,16,11,14,5,6,4,6,5,5,5,4,5,3,1,4,4,2,1,4,2,", Sometimes I couldn't understand where I failed and that bothers me, to have an invalid result without being able to go back and check why I",-0.4703377408564253
+28,28,self-det:29,self-det,39,m,3,Bachelor's Degree,p6,Professions - Engineering and technology,5,5,6,5,5,5,9,47.050110217907424,6.0,3.2,15,10,11,12,9,15,6,6,6,6,6,6,6,6,6,6,4,4,2,2,4,4,"OK, OK",0.5322324902979392
+29,29,self-det:30,self-det,20,f,2,High School,p8,Professions - Journalism and media,2,3,4,5,1,2,9,46.2231906913905,4.9,3.1,12,1,13,11,5,14,5,6,6,6,4,5,4,7,3,3,4,2,2,3,4,3,", ",-0.20789919357513797
+30,30,static-inc:1,static-inc,33,f,4,Master's Degree,p6,Professions - Engineering and technology,4,6,7,6,4,4,9,58.478375386260616,5.9,3.3,13,7,6,10,3,14,7,7,5,7,6,7,7,6,6,1,4,5,1,2,5,4,"They were not very difficult. I like such tasks, so I treat them as a pleasant challenge, interested, enjoying myself",0.7504047424701907
+31,31,static-inc:2,static-inc,22,f,3,Bachelor's Degree,p3,Professions - Business,1,3,7,3,1,3,1,58.45079324517737,4.1,3.1,16,13,17,17,20,16,2,3,5,4,5,7,3,5,3,4,5,2,2,3,3,4,"the line did confuse me a lot, irritated and anxious when i got the answer wrong. ",-0.7131670921877884
+32,32,static-inc:3,static-inc,24,m,3,Bachelor's Degree,p3,Professions - Business,6,7,7,7,7,7,7,58.40368757912356,6.3,3.4,4,9,13,7,1,5,5,6,7,7,7,7,7,5,7,5,1,4,1,1,5,1,", ",0.7612559848600782
+33,33,static-inc:4,static-inc,30,f,4,Master's Degree,ss9,Social Sciences - Psychology,3,5,6,5,1,5,7,58.4218596931295,5.9,3.2,13,5,12,13,1,13,6,6,6,6,6,6,5,6,6,6,4,4,2,2,4,4,"Some was difficult,  where I could use more time than what was given, I really enjoyed doing these puzzles",0.48217018479354135
+34,34,static-inc:5,static-inc,37,m,4,Master's Degree,p12,Professions - Public policy,2,2,5,5,2,6,7,58.397594240013525,4.3,3.1,15,6,15,14,6,12,5,4,6,5,5,2,5,5,4,2,2,4,3,2,4,3,"Most of the time the solution was so near and then bamm wrong, I liked the puzless",-0.33973082688947365
+35,35,static-inc:6,static-inc,49,m,5,Ph.D. or Higher,ns5,Natural Sciences - Mathematics,5,6,6,4,5,4,6,58.43000329899624,5.7,3.4,17,18,12,12,7,13,5,5,6,6,6,6,6,6,5,6,5,5,1,1,5,5,"The training puzzles should scale in difficulty starting from easier ones, I felt a bit stresses",0.22770159304663373
+36,36,static-inc:7,static-inc,19,f,3,Bachelor's Degree,h4,Humanities - Linguistics and languages,2,2,5,4,1,6,8,58.43729617123623,5.9,3.1,7,11,7,2,8,7,5,6,7,6,6,6,5,6,6,6,4,4,3,2,4,4,"Sometimes because of the pattern of the puzzle I would get distracted and I wouldn't notices that Iinkd two dots, I felt relax and focused on the task didn't really pay much antention to my other surroundings",0.44989414950200635
+37,37,static-inc:8,static-inc,29,m,3,Bachelor's Degree,ss8,Social Sciences - Political science,1,3,5,2,3,3,5,58.4535427489827,5.3,3.4,12,15,11,13,4,8,7,5,6,5,5,5,5,5,5,5,3,3,1,1,4,4,"The difficulty levels of the puzzles felt steep initially as I had never done anything similar before, but I felt I began to improve and find solutions more quickly as time went on and learnt to recognise mistakes better too., I was having fun, the puzzles were enjoyable. ",0.06924711236885761
+38,38,static-inc:9,static-inc,21,f,3,Bachelor's Degree,na,Not applicable,5,6,7,7,3,7,1,58.48619439432759,4.6,3.1,20,16,12,13,4,12,4,6,7,1,5,6,6,5,5,1,4,4,2,3,4,3,"The difficulty level was average and the time was little, I was excited to do the puzzle",0.035746735136817254
+39,39,static-inc:10,static-inc,33,m,3,Bachelor's Degree,p8,Professions - Journalism and media,1,5,5,6,1,5,2,58.470435840296,4.0,2.8,13,6,11,17,17,17,4,4,4,4,4,4,4,4,4,4,2,2,4,4,3,2,"Some of the puzzles didn't seem to have a solution and when I was sure I had found a solution on the others it said it was invalid, I felt frustrated",-0.5228424067263617
+40,40,static-inc:11,static-inc,26,f,3,Bachelor's Degree,ss1,Social Sciences - Economics,4,5,7,6,5,4,0,58.45539121757575,4.0,3.1,20,4,20,19,11,2,7,1,4,4,7,6,4,1,1,5,5,3,2,3,2,3,"They were actually very difficult which I was not even expecting.Had to think out of the box no matter how failing I was., ",-1.2616402602733745
+41,41,static-inc:12,static-inc,30,m,3,Bachelor's Degree,p3,Professions - Business,1,1,7,4,1,7,2,58.35847281149378,3.8,3.1,20,7,16,20,20,13,2,4,7,4,5,3,3,2,4,4,1,3,2,3,1,2,"Some require a high level of concentration, Felt emerged in the game",-0.7571882469971347
+42,42,static-inc:13,static-inc,20,m,2,High School,p6,Professions - Engineering and technology,2,6,6,5,3,7,8,58.46317459424578,4.9,3.0,8,7,6,8,7,15,6,6,6,2,6,4,5,6,6,2,3,2,3,3,4,2,"some of them were tricky, it was fun exepirience",0.336001389726023
+43,43,static-inc:14,static-inc,22,m,3,Bachelor's Degree,h4,Humanities - Linguistics and languages,1,2,4,2,1,7,4,58.463151237592704,5.9,3.1,13,16,12,11,5,5,7,7,7,6,7,7,5,6,5,2,2,3,2,3,4,3,"Often felt as if there were no correct answers in the amount of time, Often frustrated, mainly due to the time limit",0.4917989932761264
+44,44,static-inc:15,static-inc,39,f,4,Master's Degree,p3,Professions - Business,1,5,5,5,1,3,5,58.424704416027566,5.5,3.2,16,14,12,14,9,10,2,5,7,7,7,7,5,2,6,7,3,3,2,2,4,4,"The training puzzles were much easier, annoyed that I could not solve more",0.07200039820177961
+45,45,static-inc:16,static-inc,20,m,3,Bachelor's Degree,ns5,Natural Sciences - Mathematics,1,4,4,5,4,5,3,58.46692935928984,3.1,3.2,14,7,9,14,4,16,4,2,3,4,4,5,3,2,2,2,3,3,2,2,3,3,", ",-1.2400561057885555
+46,46,static-inc:17,static-inc,21,f,3,Bachelor's Degree,p3,Professions - Business,2,3,4,6,1,2,6,58.48880419897725,3.8,2.9,8,1,6,12,7,10,5,7,7,2,1,3,3,4,3,3,2,3,2,5,1,1,"good mix of easy and hard, just going through the motions",-0.6899877202678208
+47,47,static-inc:18,static-inc,20,f,3,Bachelor's Degree,ns3,Natural Sciences - Computer science,5,5,5,4,5,3,0,58.52626029143324,3.5,3.4,20,20,20,20,20,20,3,1,1,4,5,5,5,5,4,2,1,4,1,1,5,3,"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+they werent helping in any way
+
+
+
+
+
+
+
++they
+
+
+, under pressure",-0.618415222875254
+48,48,static-inc:19,static-inc,21,m,2,High School,p8,Professions - Journalism and media,2,7,7,5,2,7,3,58.4972840560701,5.0,3.3,5,5,11,6,5,4,6,5,7,5,5,5,5,5,5,2,4,4,2,1,5,4,", ",0.036971077077323056
+49,49,static-inc:20,static-inc,24,m,3,Bachelor's Degree,ns3,Natural Sciences - Computer science,4,6,7,4,6,7,2,58.47376032511904,5.6,3.2,20,17,6,16,5,14,7,4,6,7,7,5,4,4,6,6,5,5,2,2,5,5,"It needed someone who is fully focused., It was a good challenge for me, it needed some concentration. I was excited about being challenged.",0.1946397250646208
+50,50,static-inc:21,static-inc,22,m,2,High School,h10,Humanities - Visual arts,1,3,5,6,4,5,11,58.44055198125758,5.4,3.1,10,5,9,7,8,17,6,6,5,6,6,6,5,6,6,2,3,4,2,3,4,4,"it was ok to be honest few times more challenging one appeard, Sometimes confused but overall open minded and with huge self awareness to do the puzzle",0.48217018479354135
+51,51,static-inc:22,static-inc,21,m,2,High School,ns3,Natural Sciences - Computer science,2,6,7,7,6,7,8,58.4751045433458,5.9,3.3,14,4,16,14,14,5,6,7,7,6,6,7,5,5,6,4,2,2,1,2,3,3,", ",0.520141062583853
+52,52,static-inc:23,static-inc,20,m,2,High School,na,Not applicable,1,1,4,7,1,3,5,58.35174502301215,4.6,2.7,18,14,13,15,13,13,4,7,4,2,4,5,4,7,7,2,3,2,4,5,3,1,"difficult for me to concentrate, it's not the puzzles fault., nervous, rushed.",0.4889997939113142
+53,53,static-inc:24,static-inc,20,m,2,High School,ns3,Natural Sciences - Computer science,1,1,5,2,4,2,0,58.473722258256124,5.0,3.0,17,4,15,16,9,20,7,4,7,6,5,4,4,4,4,5,3,3,2,4,3,4,"It became more confusing when there were added restrictions., I felt that I couldn't get anything right.",-0.3259626956245536
+54,54,static-inc:25,static-inc,19,f,2,High School,p1,Professions - Agriculture,5,7,6,6,2,6,4,58.48069654070749,4.5,3.2,20,13,14,15,11,15,4,2,6,6,3,7,4,5,2,6,4,4,2,2,4,2,"The task was fairly difficult, required utmost attention (also because of the time limit). I put in 98 focus, however at times I missed my shortcomings due to the pressure and sub mited without realizing that I made mistakes and connected dots connected bt the same line. The more lines and dots there were, I subconsciously accepted that that was of higher difficulty to solve which was a bit frustrated. I have always loved solving problems so I wish I got to solve more correctly., Tense, focused, a bit stressed, enjoying problem solving, frustrated by wrong answers plus the fear of not solving correctly and submitting before time runs out.",-0.9238286026287161
+55,55,static-inc:26,static-inc,53,m,4,Master's Degree,ss1,Social Sciences - Economics,7,7,7,5,3,7,4,58.42216576087538,5.4,3.2,15,10,14,14,11,14,4,5,4,6,6,7,5,6,5,6,3,4,2,2,4,4,"I met this task earlier, I think my result depends mainly on the time pressure, I was focused and relaxed although time gave me a little uncertainty",0.16942025448919917
+56,56,static-inc:27,static-inc,35,m,3,Bachelor's Degree,na,Not applicable,2,5,6,5,1,5,8,58.42582235688439,5.0,3.1,18,17,16,14,13,12,6,6,4,5,5,6,6,6,5,1,3,2,2,3,2,3,"The tasks were not too hard, the challenge was time, It was exciting",0.27170293224878517
+57,57,static-inc:28,static-inc,21,f,3,Bachelor's Degree,ss1,Social Sciences - Economics,2,4,4,4,2,4,8,58.40405149889215,5.5,3.0,8,3,5,3,12,12,6,6,5,6,6,6,6,6,6,2,5,4,4,2,4,4,"The task was ok, I liked the fact that we couldn't see time, otherwise I would have been pressured, I felt calm and i wasn't destracted, which is surprising since usually my mind has a lot of thoughts all at the same time and usually I struggle with concentration",0.5322324902979392
+58,58,static-inc:29,static-inc,36,m,3,Bachelor's Degree,h3,Humanities - History,2,3,4,4,1,3,10,58.3892794253734,6.1,2.8,11,9,13,9,3,5,6,6,7,7,6,6,5,7,6,5,3,2,4,4,3,3,"The difficulty was comfortable for me to perform within relatively successfully., Calm and relaxed",0.580033218379548
+59,59,static-inc:30,static-inc,24,f,2,High School,ns1,Natural Sciences - Biology,2,6,6,5,3,6,7,58.40042639151002,6.2,3.0,15,14,14,14,4,3,6,7,7,6,6,7,7,7,6,3,5,4,3,3,4,3,"the tests were quite difficult. but by concentrating I was able to solve several of them, I felt focused and relaxed",0.7669643454694013
+60,60,dda:1,dda,27,f,3,Bachelor's Degree,p3,Professions - Business,2,2,3,3,1,3,6,57.06317175561645,4.2,3.0,14,7,12,13,7,12,5,5,4,4,4,5,5,5,4,1,2,2,3,3,3,2,"I found the wording of the initial instructions to be confusing, Challenged but good",-0.25583451626336506
+61,61,dda:2,dda,27,m,2,High School,p6,Professions - Engineering and technology,1,6,7,5,2,7,7,52.321002402290645,5.2,3.0,7,17,14,2,6,12,7,7,7,7,3,6,2,7,5,1,3,5,3,3,5,3,"The puzzles seemed to vary in difficulty and that made it quit challenging because you don't know what to expect, but it also kept the brain working to find a way to systemise the process., Challenged.",0.21132126838267018
+62,62,dda:3,dda,34,m,3,Bachelor's Degree,p3,Professions - Business,2,7,7,6,2,5,8,59.859107277384375,5.4,3.3,15,18,14,14,8,8,6,6,6,6,5,7,6,6,5,1,4,4,1,2,5,4,"It was quite a challenge, but a fun a welcome one. I felt difficulty was not consequential, they were randomly placed during the road., Mostly I felt hurried to finish, because of the red flags. But the second feeling was having the fun and the thrill of discovering solutions.",0.32027363213491356
+63,63,dda:4,dda,32,m,3,Bachelor's Degree,p1,Professions - Agriculture,2,2,5,4,3,5,8,55.150559983876526,5.5,2.9,13,16,13,10,7,12,6,6,4,5,5,6,5,6,6,6,2,2,3,4,2,2,"The difficulty level for the puzzles were good.  , I felt immersed in trying to solve the puzzles but also hurried when trying to solve some of the harder ones.",0.40663227721396744
+64,64,dda:5,dda,21,f,3,Bachelor's Degree,p3,Professions - Business,2,6,6,6,4,5,7,42.68704088275015,4.7,2.9,13,14,13,15,13,7,5,6,7,4,2,7,4,4,3,5,5,5,2,5,3,2,", ",-0.5309090120724194
+65,65,dda:6,dda,20,f,2,High School,p3,Professions - Business,6,4,6,5,1,4,7,57.223979226974905,5.5,3.2,12,11,11,10,4,9,5,7,5,7,7,7,6,5,5,1,4,4,2,2,4,3,"It was challenging but absolutely fun to try and solve. The difficulty was moderate., I felt challenged, focused and relaxed.",0.4284735899067109
+66,66,dda:7,dda,25,f,3,Bachelor's Degree,ns3,Natural Sciences - Computer science,2,5,5,7,6,4,6,42.964155394518606,6.3,3.4,20,12,20,16,0,7,6,7,7,7,6,7,6,5,5,7,3,5,1,1,4,4,"When the number of dots to select became high, it became difficult to solve the puzzle., I feel mentally challenged by the puzzle and i enjoyed doing it.",0.40972541526630213
+67,67,dda:8,dda,47,f,4,Master's Degree,ss9,Social Sciences - Psychology,2,5,5,5,1,2,5,43.5242986770653,5.8,3.1,15,16,14,16,15,13,6,6,6,6,6,6,6,6,4,6,4,4,2,3,4,4,"It was challenging, Focused and a bit frsutrated",0.1622491893587794
+68,68,dda:9,dda,27,f,3,Bachelor's Degree,p3,Professions - Business,4,5,7,7,1,6,8,54.73433783436196,4.9,3.1,20,7,19,17,12,11,6,7,4,1,7,5,7,7,4,1,3,4,2,3,3,3,"The puzzled were difficult with very little time given to solve them, I felt anxious",0.2773227617470355
+69,69,dda:10,dda,23,f,3,Bachelor's Degree,ss8,Social Sciences - Political science,7,3,7,4,1,6,1,40.292636693449374,4.2,3.4,14,19,16,19,19,20,1,7,7,3,2,6,4,7,4,1,5,3,1,1,5,3,"It was confusing did not know whether I was doing the right thing or not, frustrated, discouraged",-0.21628098334978674
+70,70,dda:11,dda,20,m,2,High School,ss7,Social Sciences - Organizational studies,2,1,6,6,1,7,7,65.79697849921602,5.7,3.3,14,5,14,13,6,17,7,3,7,7,6,7,6,7,5,2,4,3,2,1,4,2,"Training was pretty difficult but later it was easy for me to solve easier puzzles, i felt concentrated and motivated to provide best results",0.23964727647382533
+71,71,dda:12,dda,22,f,3,Bachelor's Degree,p6,Professions - Engineering and technology,7,4,5,3,7,7,2,40.292636693449374,4.5,3.0,20,17,18,17,20,19,5,4,7,6,1,7,5,3,1,6,4,5,2,4,5,4,"The difficulty levels of the puzzle was a little intense and therefore I knew what to expect with each level, I felt agitated and stressed because I wanted to solve the puzzles and every time I could not solve a puzzle I would get more agitated and frustrated.",-1.1007025810626199
+72,72,dda:13,dda,37,m,2,High School,na,Not applicable,2,3,4,4,1,6,9,62.48789099573032,4.2,3.2,17,15,17,15,16,9,3,3,5,4,4,6,4,5,4,4,2,3,2,2,4,3,"I felt like the difficulty level of the puzzle was just right as it made you think twice before answering., I felt a bit under pressure not knowing how long I had to complete each puzzle.",-0.5209183130927157
+73,73,dda:14,dda,46,f,3,Bachelor's Degree,ss9,Social Sciences - Psychology,1,4,7,2,1,1,1,39.96219321798123,4.6,2.8,20,6,20,20,20,20,7,4,1,6,6,6,5,4,3,4,2,3,3,5,2,1,", ",-0.36175382618079777
+74,74,dda:15,dda,42,f,3,Bachelor's Degree,p6,Professions - Engineering and technology,4,5,6,5,4,5,1,40.292636693449374,5.6,3.3,19,5,16,20,8,17,7,6,6,6,7,7,6,5,4,2,4,4,2,1,5,5,", strangely confusing, even though the instruction was simple enough",0.19625710088237813
+75,75,dda:16,dda,37,m,4,Master's Degree,ns4,Natural Sciences - Earth science,2,4,4,2,2,6,9,58.47654920201061,4.4,3.0,12,13,10,11,11,9,6,4,5,3,3,5,4,6,4,4,4,3,2,4,3,2,"It wasnt difficult that much but i couldn't focus as i wanted and i felt hurry up., I felt hurry up too much and just do it without double checking which had lost me.",-0.3630725696076169
+76,76,dda:17,dda,20,m,2,High School,ns3,Natural Sciences - Computer science,2,6,6,5,6,7,6,55.8543592838771,4.5,3.2,18,13,14,15,8,10,6,3,7,5,4,5,5,2,3,5,4,2,2,2,4,4,"It seemed impossible at times, and the time was also a factor that was lingering in my head, I felt concentrated and determined, but sometimes annoyed because it seemed like the puzzles are just impossible",-0.7786108645892886
+77,77,dda:18,dda,28,f,3,Bachelor's Degree,ns1,Natural Sciences - Biology,1,5,6,7,1,6,7,43.40859485287586,5.4,3.4,20,15,15,16,1,13,7,7,7,1,7,7,3,7,7,1,3,3,1,1,5,4,"The puzzles were not too difficult but i needed more time than what was provided to completely solve them, I was calm, relaxed and focused. ",0.7124385309067116
+78,78,dda:19,dda,23,m,3,Bachelor's Degree,h3,Humanities - History,6,4,7,5,5,7,2,40.292636693449374,3.9,2.9,20,14,19,18,15,20,5,2,6,2,1,7,5,2,2,7,2,3,5,2,4,2,"The tasks at first were very difficult as the time went along I got the hang of a few things. With the time in my head it provided another challenge as something to think about. It had a huge impact on me trying to complete the puzzles because I had to think about the lines and time at once. , At some stages I felt dumb because I could not figure out how to solve the puzzles and when I did solve it I became more relaxed and started to really come into my element and solve the puzzles. Also felt defeated but my will to carry on carried me through.",-1.2616414801023208
+79,79,dda:20,dda,23,m,3,Bachelor's Degree,p6,Professions - Engineering and technology,7,5,6,6,7,4,8,54.58017920915923,5.8,3.2,18,16,11,15,5,13,6,5,7,7,7,7,6,7,5,1,4,4,2,2,5,4,", ",0.4329218740946157
+80,80,dda:21,dda,29,m,3,Bachelor's Degree,p3,Professions - Business,1,5,6,5,1,6,7,57.39538026158997,5.6,3.2,12,14,13,7,18,12,5,6,6,6,6,6,6,7,6,2,4,4,2,2,4,3,"The task itself is not too difficult but not taking my time led to mistakes that I did not pick up on, Quite relaxed but irritated that I got some of them wrong",0.5733057909447807
+81,81,dda:22,dda,21,m,2,High School,ss1,Social Sciences - Economics,2,7,7,6,2,3,8,58.43297793106792,5.9,3.2,4,7,13,12,7,12,7,5,7,7,7,7,7,5,5,2,3,5,1,3,5,2,"Some puzzles I wasn't able to solve and I knew I could do better., I concentrated on finding the solution",0.3685615430137963
+82,82,dda:23,dda,43,m,4,Master's Degree,p6,Professions - Engineering and technology,7,7,7,5,2,6,7,53.44613412737045,5.2,3.0,16,10,6,11,1,2,6,7,7,6,6,7,6,2,4,1,5,5,1,5,5,4,"It was regular., I felt calm.",-0.019827940666036437
+83,83,dda:24,dda,43,f,3,Bachelor's Degree,p3,Professions - Business,1,5,6,2,1,5,5,48.67846209718933,5.7,3.3,19,18,16,16,12,15,7,5,7,5,6,7,6,4,3,7,4,4,2,1,5,4,"It was not difficult but the time given was not enough, I liked the puzzles, I felt a bit stressed",-0.22488500459534233
+84,84,dda:25,dda,22,m,2,High School,na,Not applicable,2,3,2,1,1,4,7,46.37880969473906,4.1,3.1,12,6,14,8,7,9,4,3,5,4,3,5,4,5,3,5,2,4,3,2,3,2,"it was challanging at start then i got the hang of it (kinda), challanged",-0.7487151404412016
+85,85,dda:26,dda,25,m,3,Bachelor's Degree,p10,Professions - Medicine,2,6,7,7,5,2,6,58.266271384375024,5.3,3.1,13,5,17,13,14,3,6,7,1,7,6,7,5,6,7,1,5,5,1,4,5,5,"Everything was fine, I felt that I have to do some tasks well",0.8029957466394397
+86,86,dda:27,dda,20,m,3,Bachelor's Degree,ns3,Natural Sciences - Computer science,1,5,5,7,6,7,6,54.5710195332868,6.4,3.1,13,7,13,13,4,13,7,7,7,7,6,7,6,6,6,5,5,2,2,3,4,3,"I really thought it was easy at the start, but it started getting more difficult eventually, I felt concentrated and absorbed while getting through them",0.7003424369657925
+87,87,dda:28,dda,25,f,2,High School,ns5,Natural Sciences - Mathematics,5,7,5,6,6,5,8,55.85969017507966,4.7,3.2,11,8,12,10,1,7,5,5,5,5,5,5,5,5,4,3,4,4,2,2,4,4,"The puzzles were perfect level of difficulty for me, and the training was comprehensive as well., The puzzles were engaging and fun, I felt like I was playing a mind game",-0.18029660868379116
+88,88,dda:29,dda,39,m,3,Bachelor's Degree,p6,Professions - Engineering and technology,7,7,7,7,7,5,5,48.43513378499048,4.5,3.4,18,5,8,14,0,4,7,6,2,5,4,1,6,7,6,1,5,5,1,1,5,5,"I needed more practice and training., Challenged",0.3910107328238466
+89,89,dda:30,dda,20,f,2,High School,na,Not applicable,2,3,5,5,5,5,7,58.20561213520133,4.2,3.0,13,12,5,12,14,17,6,5,3,3,5,6,5,4,3,2,4,4,4,2,4,4,"I think if had more time I would be able to solve most of the ones that I didn't solve , I felt joy when I completed them successfully, but irritation when the time run out and I knew I failed   ",-0.43133195285697656
+90,90,dda:31,dda,47,m,4,Master's Degree,p6,Professions - Engineering and technology,3,5,6,6,5,6,8,56.228612321505096,6.1,3.1,15,15,17,13,10,5,7,6,6,6,6,6,6,7,6,5,3,4,2,3,4,3,"troch trudne zadania, cakiem dobrze i skupiony",0.6378578615278498

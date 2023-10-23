@@ -1,0 +1,211 @@
+{
+    "norm_columns": [
+        "cnt_set",
+        "cnt_unset",
+        "cnt_reset",
+        "click_time_mean"
+    ],
+    "cols_cluster": [
+        "cnt_set",
+        "cnt_unset",
+        "cnt_reset",
+        "click_time_mean"
+    ],
+    "ratio_groups": [
+        [
+            "cnt_correct",
+            "cnt_incorrect",
+            "cnt_neutral"
+        ]
+    ],
+    "label_cols": [
+        "nlg",
+        "flow_score",
+        "performance_score",
+        "effort_score",
+        "difficulty_score",
+        "frustration_score",
+        "theta",
+        "pre",
+        "post",
+        "adiff",
+        "rdiff",
+        "cnt_set_raw",
+        "cnt_unset_raw",
+        "cnt_reset_raw",
+        "click_time_mean_raw",
+        "time_set_mean",
+        "time_unset_mean",
+        "time_correct_mean",
+        "cnt_correct",
+        "cnt_incorrect",
+        "cnt_neutral",
+        "train_success",
+        "is_incorrect",
+        "is_timeout",
+        "train_time_mean",
+        "action_freq"
+    ],
+    "label_names": [
+        "NLG",
+        "Flow",
+        "Perceived Performance",
+        "Perceived Effort",
+        "Perceived Difficulty",
+        "Perceived Frustration",
+        "Student's Est. Ability",
+        "Pre-test Score",
+        "Post-test Score",
+        "Absolute Difficulty",
+        "Relative Difficulty",
+        "Number of sets",
+        "Number of unsets",
+        "Number of resets",
+        "Avg. time between two clicks",
+        "Time before set action",
+        "Time before unset action",
+        "Time before correct action",
+        "Number of correct actions",
+        "Number of incorrect actions",
+        "Number of neutral actions",
+        "Correct practice exercises",
+        "Incorrect practice exercises",
+        "Timeout practice exercises",
+        "Avg. time in practice exercises",
+        "Frequency of actions"
+    ],
+    "plot_types": [
+        "bar",
+        "bar",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box",
+        "box"
+    ],
+    "label_ranges": [
+        [
+            -1,
+            1.32
+        ],
+        [
+            0,
+            7
+        ],
+        [
+            0,
+            20
+        ],
+        [
+            0,
+            20
+        ],
+        [
+            0,
+            20
+        ],
+        [
+            0,
+            20
+        ],
+        null,
+        [
+            0,
+            3
+        ],
+        [
+            0,
+            3
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            null
+        ],
+        [
+            0,
+            12
+        ],
+        [
+            0,
+            12
+        ],
+        [
+            0,
+            12
+        ],
+        [
+            0,
+            90
+        ],
+        null
+    ],
+    "plot_clusters_x": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ]
+}
